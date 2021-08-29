@@ -12,6 +12,14 @@ We initially thought of using an LDR in the Receiver section but the LDR is usua
 Solar panel was the best candidate, since it was extremely accurate & it generates voltage on its own when excited by charged photons. We just amplified that little current it generated just from a simple laser beam (we used a Focussed Torch since we have damaged our Laser Beam) using 2 High Gain and 2 Power Transistors to create a fast-accurate signal. With little calibration with capacitors, shunt resistances and signal diodes, we could isolate noise from the circuit as well.
  
  
- 
+ ## Basic Working Flow
+
+![image](https://user-images.githubusercontent.com/52691060/131262753-6f7f0622-9382-4c21-ba7e-2128d3ee5474.png)
+
+
+## Some sample images 
+
+![image](https://user-images.githubusercontent.com/52691060/131262938-4c197db8-537e-45a2-b999-8eeef1417d03.png)
+
  
 
